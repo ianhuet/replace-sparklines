@@ -1,0 +1,1 @@
+export { renderDynamicBarChart } from './d3DynamicBarChart'
